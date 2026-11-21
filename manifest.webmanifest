@@ -1,0 +1,17 @@
+{
+  "name": "Śpiewnik Starych Sęków",
+  "short_name": "Śpiewnik SS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#24533d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

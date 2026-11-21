@@ -1,0 +1,21 @@
+ŚPIEWNIK STARYCH SĘKÓW — wersja 0.3.3
+
+W pakiecie znajduje się 62 pełnych tekstów piosenek z przesłanego pliku DOCX.
+
+TEST NA KOMPUTERZE: otwórz index.html w przeglądarce.
+
+INSTALACJA I TEST OFFLINE NA ANDROIDZIE:
+1. Opublikuj CAŁĄ zawartość folderu na hostingu HTTPS (np. GitHub Pages lub Netlify).
+2. Otwórz adres aplikacji w Chrome na Androidzie przy włączonym internecie.
+3. W menu Chrome wybierz „Zainstaluj aplikację” lub „Dodaj do ekranu głównego”.
+4. Po pełnym załadowaniu włącz tryb samolotowy i uruchom śpiewnik ponownie.
+
+UWAGA: samo otwarcie lokalnego pliku HTML nie instaluje PWA i nie uruchamia Service Workera.
+Wersja 0.3.3 nie synchronizuje jeszcze zmian z Google Sites ani nie pobiera nagrań.
+Źródło danych: Stare Sęki śpiewnik v.2026.1110.docx.
+
+ZMIANY 0.3.3: Zwrotka2 i Refren: wcięcie 1 cm; Refren: kursywa bez pogrubienia; autorzy: 10 px kursywa i linia oddzielająca od tekstu.
+
+ZMIANY 0.3.3: poprawiono 32 wpisy, w których dane autorów zostały błędnie umieszczone w tekście piosenki. Wszystkie 62 wpisy mają teraz osobne pole autorów.
+
+W wersji 0.3.3 wyszukiwarka sprawdza wyłącznie tytuły piosenek.
