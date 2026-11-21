@@ -1,5 +1,5 @@
 {
-  "wersja": "2026.1110",
+  "wersja": "2026.1121",
   "liczba_piosenek": 62,
   "piosenki": [
     {
@@ -10,9 +10,14 @@
         "sł. Jerzy Litwiniuk;\tmuz. Jerzy Smoczyński",
         "Piosenka nagrodzona w konkursie na piosenkę harcerską w 1962 roku"
       ],
-      "tekst": "Będziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie ….",
-      "lyrics": "Będziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie ….",
+      "tekst": "Będziemy dumni niesłychanie,\nBędziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie ….",
+      "lyrics": "Będziemy dumni niesłychanie,\nBędziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie ….",
       "wersy": [
+        {
+          "typ": "zwrotka",
+          "tekst": "Będziemy dumni niesłychanie,",
+          "styl_zrodlowy": "Zwrotka1"
+        },
         {
           "typ": "zwrotka",
           "tekst": "Będziemy dumni niesłychanie,",
@@ -8364,7 +8369,7 @@
       "id": "ss-001",
       "title": "Stare namioty – Hymn Kręgu",
       "author": "sł. Jerzy Litwiniuk;\tmuz. Jerzy Smoczyński | Piosenka nagrodzona w konkursie na piosenkę harcerską w 1962 roku",
-      "lyrics": "Będziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie …."
+      "lyrics": "Będziemy dumni niesłychanie,\nBędziemy dumni niesłychanie,\ngdy zastęp nowy namiot dostanie.\nSzyk niedościgły, prosto spod igły,\nogólny podziw i uznanie.\nNowe namioty są jak marzenie,\nnowe namioty robią wrażenie.\nLecz stary namiot zachował twarz,\nbo który namiot ma taki staż? (2x)\nOd wojska mamy go w prezencie,\nczas wyrył na nim swoje pieczęcie.\nJakie legendy, jakie gawędy\ndrzemią ukryte w tym brezencie.\nNowe namioty są jak marzenie ….\nBo w tej podszytej wiatrem budzie,\npod skołatanym dachem płóciennym\nzżyli się ludzie w żołnierskim trudzie,\na może nawet i wojennym.\nNowe namioty są jak marzenie ….\nNiejedna służba jest mu znana,\nlepsza i gorsza losu odmiana.\nWytrzyma jeszcze burze i deszcze,\nwięc uszanujmy weterana.\nNowe namioty są jak marzenie …."
     },
     {
       "id": "ss-002",
