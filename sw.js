@@ -1,5 +1,5 @@
-// Śpiewnik 1.1.1 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
-const CACHE='ss-pwa-v111-20261121';
+// Śpiewnik 1.1.2 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
+const CACHE='ss-pwa-v112-20261124';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./songs.json'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
