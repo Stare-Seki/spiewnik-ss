@@ -1,7 +1,7 @@
-// Śpiewnik 1.1.5 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
-const CACHE='ss-pwa-v115-20261124';
+// Śpiewnik 1.1.6 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
+const CACHE='ss-pwa-v116-20261125';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./songs.json'];
-self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting())));
+self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
  const request=event.request;
@@ -21,6 +21,13 @@ self.addEventListener('fetch',event=>{
    }catch(error){const cached=await cache.match(request);if(cached)return cached;return Response.error();}
   })());
   return;
+ }
+ if(request.mode==='navigate'||url.pathname.endsWith('/index.html')){
+  event.respondWith((async()=>{
+   const cache=await caches.open(CACHE);
+   try{const response=await fetch(request,{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);await cache.put('./index.html',response.clone());return response;}
+   catch(error){return (await cache.match('./index.html'))||Response.error();}
+  })());return;
  }
  event.respondWith(caches.match(request).then(hit=>hit||fetch(request)));
 });
