@@ -1,5 +1,5 @@
 {
-  "wersja": "2026-11-24",
+  "wersja": "2026-11-25",
   "liczba_piosenek": 63,
   "piosenki": [
     {
@@ -230,22 +230,22 @@
         {
           "typ": "zwrotka",
           "tekst": "W harcerskim kręgu radość trwa.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Każdy dzień to nowa gra.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Poznań - Jeżyce nasze miasto.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Instruktorski duch nie gaśnie.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -290,22 +290,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Każdy z nas na posterunku.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Nie ma nudy w żadnym punku.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Z nami razem w słońcu deszczu,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Stare Sęki są bezpieczne.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -363,62 +363,62 @@
         {
           "typ": "zwrotka",
           "tekst": "Precz smutki, niech zginą,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "wspomnienia niechaj płyną,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "obsiądźmy ogień wkoło",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "z piosenką wesołą.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Uśmiechnij się jasno",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "a wszystkie troski zgasną,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "podajmy sobie ręce",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w piosence, w piosence.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Bo w naszej ferajnie przyjęte jest",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zabawić się fajnie i śpiewać też",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i zawsze mamy chęć na szał,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "byleby śpiew wesoło brzmiał.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -448,62 +448,62 @@
         {
           "typ": "zwrotka",
           "tekst": "Na żal nas nie bierzcie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "bo dosyć smutku w mieście,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "niech żyje nasza banda,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "a reszta – karamba!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Nam smutków nie trzeba,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "gdy w górze błękit nieba",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "a gwiazdy z mgiełką siną",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nad głową nam płyną.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Bo w naszej ferajnie przyjęte jest",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zabawić się fajnie i śpiewać też",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i w tym jest właśnie cała rzecz,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "że wszystkie smutki idą precz.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -540,8 +540,8 @@
         "sł. ???",
         "muz. ???"
       ],
-      "tekst": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady.",
-      "lyrics": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady.",
+      "tekst": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.",
+      "lyrics": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -619,6 +619,31 @@
           "styl_zrodlowy": "Refren"
         },
         {
+          "typ": "refren",
+          "tekst": "Trza paść krowy nie ma rady.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie pokowboić,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy doić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie poturyścić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy czyścić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
           "typ": "zwrotka",
           "tekst": "To nie życie dla kowboja,",
           "styl_zrodlowy": "Zwrotka1"
@@ -641,6 +666,31 @@
         {
           "typ": "refren",
           "tekst": "Hej Bieszczady, hej Bieszczady.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Trza paść krowy nie ma rady.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie pokowboić,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy doić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie poturyścić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy czyścić.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -667,6 +717,31 @@
           "typ": "refren",
           "tekst": "Hej Bieszczady, hej Bieszczady.",
           "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Trza paść krowy nie ma rady.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie pokowboić,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy doić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Chciałem sobie poturyścić.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a tu trzeba krowy czyścić.",
+          "styl_zrodlowy": "Refren"
         }
       ]
     },
@@ -683,82 +758,82 @@
         {
           "typ": "zwrotka",
           "tekst": "Anioły są takie ciche,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zwłaszcza te w Bieszczadach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Gdy spotkasz takiego w górach,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "wiele z nim nie pogadasz.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Najwyżej na ucho ci powie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "gdy będzie w dobrym humorze,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "że skrzydła nosi w plecaku,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nawet przy dobrej pogodzie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Anioły są całe zielone,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zwłaszcza te w Bieszczadach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Łatwo w trawie się kryją",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i w opuszczonych sadach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "W zielone grają ukradkiem,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nawet karty mają zielone.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Zielone mają pojęcie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "a nawet zielony kielonek.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -803,42 +878,42 @@
         {
           "typ": "zwrotka",
           "tekst": "Anioły są całkiem samotne,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zwłaszcza te w Bieszczadach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "W kapliczkach zimą drzemią,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "choć może im nie wypada.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Czasem taki anioł samotny",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "zapomni dokąd ma lecieć.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I wtedy całe Bieszczady",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "mają szaloną uciechę.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -883,42 +958,42 @@
         {
           "typ": "zwrotka",
           "tekst": "Anioły są wiecznie ulotne,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "zwłaszcza te w Bieszczadach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Nas też czasami nosi,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "po ich anielskich śladach.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "One nam przyzwalają",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i skrzydłem wskazują drogę.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I wtedy w nas się zapala,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "wieczny bieszczadzki ogień.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -970,8 +1045,8 @@
         "sł. ???",
         "muz. ???"
       ],
-      "tekst": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc.",
-      "lyrics": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc.",
+      "tekst": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc.",
+      "lyrics": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -996,22 +1071,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Byśmy zawsze pamiętali",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "żeśmy bratnie słowo dali.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Druh druhowi druhnie druh,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Hasło znaj, czuj duch",
-          "styl_zrodlowy": "Zwrotka1"
+          "tekst": "Hasło znaj, czuj duch.",
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -1036,22 +1111,22 @@
         {
           "typ": "zwrotka",
           "tekst": "W troskach, smutkach i zmartwieniach,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w dni pogodne i w dni cienia,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w mroźny dzień i w chłodną noc",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "przyjaźń da ci moc.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -1832,42 +1907,57 @@
       "autorzy_i_informacje": [
         "sł. Józef Korzeniowski\nmuz. Karol Kurpiński"
       ],
-      "tekst": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\na wesoła kołomyjka do tańca porywa.\nDla Hucuła nie ma życia jak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,",
-      "lyrics": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\na wesoła kołomyjka do tańca porywa.\nDla Hucuła nie ma życia jak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,",
+      "tekst": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.",
+      "lyrics": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.",
       "wersy": [
         {
           "typ": "zwrotka",
           "tekst": "Czerwony pas, za pasem broń,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i topór, co błyszczy z dala.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Wesoła myśl, swobodna dłoń.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "To strój, to życie górala.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
-          "tekst": "Tam szum Prutu, Czeremoszu Hucułom przygrywa,",
+          "tekst": "Tam szum Prutu, Czeremoszu",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "a wesoła kołomyjka do tańca porywa.",
+          "tekst": "Hucułom przygrywa,",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Dla Hucuła nie ma życia jak na połoninie,",
+          "tekst": "a wesoła kołomyjka",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "do tańca porywa.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Dla Hucuła nie ma życia",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "jak na połoninie,",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -1883,101 +1973,241 @@
         {
           "typ": "zwrotka",
           "tekst": "Gdy świeży liść okryje bór,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i Czarnohora ściemnieje.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niech dzwoni flet, niech ryczy róg.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Odżyły nasze nadzieje.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
-          "tekst": "Tam szum Prutu, Czeremoszu Hucułom przygrywa,",
+          "tekst": "Tam szum Prutu, Czeremoszu",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hucułom przygrywa,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a wesoła kołomyjka",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "do tańca porywa.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Dla Hucuła nie ma życia",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "jak na połoninie,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "gdy go losy w doły rzucą,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "wnet z tęsknoty ginie.",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "zwrotka",
           "tekst": "Pękł rzeki grzbiet, popłynął lód.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Czeremosz szumi po skale.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Nuż w dobry czas, kędziory trzód",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Weseli kąpcie górale.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
-          "tekst": "Tam szum Prutu, Czeremoszu Hucułom przygrywa,",
+          "tekst": "Tam szum Prutu, Czeremoszu",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hucułom przygrywa,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a wesoła kołomyjka",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "do tańca porywa.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Dla Hucuła nie ma życia",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "jak na połoninie,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "gdy go losy w doły rzucą,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "wnet z tęsknoty ginie.",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "zwrotka",
           "tekst": "Połonin step na szczytach gór.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tam trawa w pas się podnosi.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tam ciasnych miedz nie ciągnie sznur.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tam żaden pan ich nie kosi.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
-          "tekst": "Tam szum Prutu, Czeremoszu Hucułom przygrywa,",
+          "tekst": "Tam szum Prutu, Czeremoszu",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hucułom przygrywa,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a wesoła kołomyjka",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "do tańca porywa.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Dla Hucuła nie ma życia",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "jak na połoninie,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "gdy go losy w doły rzucą,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "wnet z tęsknoty ginie.",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "zwrotka",
           "tekst": "A gdy już mróz posrebrzy las,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "ładujcie ostrożnie konie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Wy z plonem swym witajcie nas,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "my z czarką podamy dłonie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
-          "tekst": "Tam szum Prutu, Czeremoszu Hucułom przygrywa,",
+          "tekst": "Tam szum Prutu, Czeremoszu",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hucułom przygrywa,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "a wesoła kołomyjka",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "do tańca porywa.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Dla Hucuła nie ma życia",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "jak na połoninie,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "gdy go losy w doły rzucą,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "wnet z tęsknoty ginie.",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -2101,18 +2331,28 @@
       "autorzy_i_informacje": [
         "sł. Marian Matuszkiewicz\nmuz. Marian Matuszkiewicz"
       ],
-      "tekst": "Deszcz, jesienny deszcz, smutne pieśni gra.\nMokną na nim karabiny, hełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd noc zapada znów.\nCiemna główka twej dziewczyny chyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz, bębni w hełmu stal.\nIdziesz młody żołnierzyku gdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu",
-      "lyrics": "Deszcz, jesienny deszcz, smutne pieśni gra.\nMokną na nim karabiny, hełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd noc zapada znów.\nCiemna główka twej dziewczyny chyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz, bębni w hełmu stal.\nIdziesz młody żołnierzyku gdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu",
+      "tekst": "Deszcz, jesienny deszcz,\nsmutne pieśni gra.\nMokną na nim karabiny,\nhełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd\nnoc zapada znów.\nCiemna główka twej dziewczyny\nchyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz,\nbębni w hełmu stal.\nIdziesz młody żołnierzyku\ngdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu",
+      "lyrics": "Deszcz, jesienny deszcz,\nsmutne pieśni gra.\nMokną na nim karabiny,\nhełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd\nnoc zapada znów.\nCiemna główka twej dziewczyny\nchyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz,\nbębni w hełmu stal.\nIdziesz młody żołnierzyku\ngdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu",
       "wersy": [
         {
           "typ": "zwrotka",
-          "tekst": "Deszcz, jesienny deszcz, smutne pieśni gra.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "Deszcz, jesienny deszcz,",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Mokną na nim karabiny, hełmy kryje rdza.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "smutne pieśni gra.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Mokną na nim karabiny,",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "hełmy kryje rdza.",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -2156,23 +2396,33 @@
         },
         {
           "typ": "zwrotka",
-          "tekst": "Gdzieś daleko stąd noc zapada znów.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "Gdzieś daleko stąd",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Ciemna główka twej dziewczyny chyli się do snu.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "noc zapada znów.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Ciemna główka twej dziewczyny",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "chyli się do snu.",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Może właśnie dziś",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "patrzy w mroczną mgłę.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -2216,13 +2466,23 @@
         },
         {
           "typ": "zwrotka",
-          "tekst": "Deszcz jesienny, deszcz, bębni w hełmu stal.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "Deszcz jesienny, deszcz,",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Idziesz młody żołnierzyku gdzieś w nieznaną dal.",
-          "styl_zrodlowy": "zwrotka"
+          "tekst": "bębni w hełmu stal.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Idziesz młody żołnierzyku",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "gdzieś w nieznaną dal.",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -2405,8 +2665,8 @@
       "autorzy_i_informacje": [
         "sł. ???\nmuz. ???"
       ],
-      "tekst": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.",
-      "lyrics": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.",
+      "tekst": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.",
+      "lyrics": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -2430,12 +2690,22 @@
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "Echo, echo, echo, echo",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "dziś wyruszamy już.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Echo, echo, echo, echo",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "dziś wyruszamy już.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -2460,12 +2730,22 @@
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "Echo, echo, echo, echo",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "dziś wyruszamy już.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Echo, echo, echo, echo",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "dziś wyruszamy już.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -2490,12 +2770,22 @@
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "Echo, echo, echo, echo",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Echo, echo, echo, echo dziś wyruszamy już.",
+          "tekst": "dziś wyruszamy już.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Echo, echo, echo, echo",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "dziś wyruszamy już.",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -2507,9 +2797,24 @@
       "autorzy_i_informacje": [
         "sł. ???\nmuz. ???"
       ],
-      "tekst": "El bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!",
-      "lyrics": "El bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!",
+      "tekst": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już zgasł.\nA pampasy wciąż nucą tę pieśń:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nNiebo całe jaśnieje od gwiazd.\nI księżyca czarowny lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!",
+      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już zgasł.\nA pampasy wciąż nucą tę pieśń:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nNiebo całe jaśnieje od gwiazd.\nI księżyca czarowny lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!",
       "wersy": [
+        {
+          "typ": "zwrotka",
+          "tekst": "Nad Brazylią zapada już zmrok.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Słońce zaszło i księżyc już zgasł.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "A pampasy wciąż nucą tę pieśń:",
+          "styl_zrodlowy": "Zwrotka1"
+        },
         {
           "typ": "refren",
           "tekst": "El bayo, el bayo, el bayo!",
@@ -2539,6 +2844,21 @@
           "typ": "refren",
           "tekst": "El bayo!",
           "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Niebo całe jaśnieje od gwiazd.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "I księżyca czarowny lśni blask.",
+          "styl_zrodlowy": "Zwrotka1"
+        },
+        {
+          "typ": "zwrotka",
+          "tekst": "Chłopców chór śpiewa piosenkę tę:",
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -3576,17 +3896,17 @@
         {
           "typ": "zwrotka",
           "tekst": "wędrować jasną wstęgą szos.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Patrzeć, jak gwiazdy niebo złocą",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i czekać co przyniesie los.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -3626,22 +3946,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Jak dobrze nam po wielkich szczytach",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "wracać w doliny, progi swe.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Przyjaciół jasne twarze witać,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "o młoda duszo, raduj się!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -3713,22 +4033,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Jak to miło nocować w namiocie.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I raniutko na jasny wyjść świat.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A tu szumią wysokie paprocie,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i na liściach wesoło gra wiatr.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -3778,22 +4098,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Zbierać słodkie pachnące jagody.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Poznać kwiaty z zapachów i nazw.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Pod drzewami się uczyć przyrody,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "gdy gromadą idziemy przez las.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -4039,22 +4359,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Dziki okrzyk słychać w dali,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "to jeleni hasło kali.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Kara kum o kara kum o,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "kara kum o kara kum.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -4079,22 +4399,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Dziki okrzyk słychać w dali,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "to jeleni hasło kali.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Kara kum o kara kum o,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "kara kum o kara kum.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -4119,22 +4439,22 @@
         {
           "typ": "zwrotka",
           "tekst": "A gdy ujrzysz go w oddali,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "powiedz głośno hasło Kali",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Kara kum o kara kum o,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "kara kum o kara kum.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -4145,17 +4465,17 @@
       "autorzy_i_informacje": [
         "sł. Zbigniew Kowalczyk\nmuz. Zbigniew Kowalczyk"
       ],
-      "tekst": "Kaszubskie noce nad nami lśniące\t\t\tC a\nHarcerski krąg, ogniska blask\t\t\td G\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)",
-      "lyrics": "Kaszubskie noce nad nami lśniące\t\t\tC a\nHarcerski krąg, ogniska blask\t\t\td G\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)",
+      "tekst": "Kaszubskie noce nad nami lśniące\nHarcerski krąg, ogniska blask\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)",
+      "lyrics": "Kaszubskie noce nad nami lśniące\nHarcerski krąg, ogniska blask\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)",
       "wersy": [
         {
           "typ": "zwrotka",
-          "tekst": "Kaszubskie noce nad nami lśniące\t\t\tC a",
+          "tekst": "Kaszubskie noce nad nami lśniące",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Harcerski krąg, ogniska blask\t\t\td G",
+          "tekst": "Harcerski krąg, ogniska blask",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
@@ -4170,7 +4490,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "To szumi las, kołysze drzewa\t\t\tC a d G",
+          "tekst": "To szumi las, kołysze drzewa",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -4210,7 +4530,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "To szumi las, kołysze drzewa\t\t\tC a d G",
+          "tekst": "To szumi las, kołysze drzewa",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -4250,7 +4570,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "To szumi las, kołysze drzewa\t\t\tC a d G",
+          "tekst": "To szumi las, kołysze drzewa",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -4303,122 +4623,122 @@
         {
           "typ": "zwrotka",
           "tekst": "Komu dzwonią, temu dzwonią.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Mnie nie dzwoni żaden dzwon.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Bo takiemu pijakowi",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "jakie życie, taki zgon.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Bo takiemu pijakowi",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "jakie życie, taki zgon.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "W piwnicy mnie pochowajcie.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "W piwnicy mi kopcie grób.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A głowę mi obracajcie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "tam, gdzie jest od beczki szpunt.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A głowę mi obracajcie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "tam, gdzie jest od beczki szpunt.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Księdza do mnie nie wołajcie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "niech nie robi zbędnych szop.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tylko ty mi, przyjacielu",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "spirytusem głowę skrop.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tylko ty mi, przyjacielu",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "spirytusem głowę skrop.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "W jedna rękę kielich dajcie,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "W drugą rękę wina dzban,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I nade mną zaśpiewajcie:",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Umarł pijak, ale pan.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I nade mną zaśpiewajcie:",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Umarł pijak, ale pan.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -4577,22 +4897,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Pod komendanta rozkazem,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "pod jego ojcowską ręką.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Skruszymy wroga żelazem,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w boju z harcerską piosenką.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -4629,22 +4949,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Chociaż każdy z nas jest młody,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "lecz go starym wilkiem zwą.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "My strażnicy Wielkiej Wody,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "marynarze polscy to.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -4674,22 +4994,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Żadna siła, żadna burza",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "nie odbierze Gdyni nam.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Własna flota, choć nie duża,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "strzeże czujnie portu bram.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -4725,23 +5045,23 @@
       "autorzy_i_informacje": [
         "sł. ???\nmuz. ???"
       ],
-      "tekst": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo.",
-      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo.",
+      "tekst": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo.",
+      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo.",
       "wersy": [
         {
           "typ": "zwrotka",
           "tekst": "Nad Brazylią zapada już zmrok.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Słońce zaszło i księżyc już lśni.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "A pampasy wciąż nucą tę pieśń.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -4765,23 +5085,28 @@
         },
         {
           "typ": "refren",
-          "tekst": "W ognistym rytmie te dwa słowa brzmią: El bajo.",
+          "tekst": "W ognistym rytmie",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "te dwa słowa brzmią: El bajo.",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niebo całe jaśnieje od gwiazd.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I księżyca czerwony lśni blask.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Chłopców chór śpiewa piosenkę tę:",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -4805,7 +5130,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "W ognistym rytmie te dwa słowa brzmią: El bajo.",
+          "tekst": "W ognistym rytmie",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "te dwa słowa brzmią: El bajo.",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -4817,8 +5147,8 @@
       "autorzy_i_informacje": [
         "sł. Jerzy Krzywoszewski\nmuz. Jerzy Krzywoszewski"
       ],
-      "tekst": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!",
-      "lyrics": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!",
+      "tekst": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!",
+      "lyrics": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -4843,22 +5173,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Jak to dobrze tak z rozwianym włosem",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "srebrną drogą w słońce gnać,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "no i śpiewać, śpiewać pełnym głosem,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "aby światu dać znać.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -4938,22 +5268,22 @@
         {
           "typ": "zwrotka",
           "tekst": "I pójdziemy tak przez las pod rękę,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "poprzez wrzosy, poprzez mchy",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i będziemy śpiewać tę piosenkę,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nasza młodość i my:",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -4963,6 +5293,51 @@
         {
           "typ": "refren",
           "tekst": "Na szlakach „Kormorana” - Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! - echo odpowie ci.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Puszcza twój okrzyk w dal poniesie:",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! - w błękitach jezior drży.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czy to w słoneczny dzień,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "czy gdy noc rzuci cień,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "czy o świcie, gdy mija już strach.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! Na szlakach „Kormorana” - Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! Harcerska straż!",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -4988,22 +5363,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Jeszcze chwilę w ciszy gdzieś uparcie",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "komar będzie cicho grać.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Mały chłopiec stanie dziś na warcie,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "byś spokojnie mógł spać.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -5013,6 +5388,51 @@
         {
           "typ": "refren",
           "tekst": "Na szlakach „Kormorana” - Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! - echo odpowie ci.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Puszcza twój okrzyk w dal poniesie:",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! - w błękitach jezior drży.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czy to w słoneczny dzień,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "czy gdy noc rzuci cień,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "czy o świcie, gdy mija już strach.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! Na szlakach „Kormorana” - Czuwaj!",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Czuwaj! Harcerska straż!",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -5248,8 +5668,8 @@
       "autorzy_i_informacje": [
         "sł. ???\nmuz. ???"
       ],
-      "tekst": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\t śpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę śpiewam dla ciebie.\nObozowe tango, które znów połączy nas.",
-      "lyrics": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\t śpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę śpiewam dla ciebie.\nObozowe tango, które znów połączy nas.",
+      "tekst": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas.",
+      "lyrics": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5298,7 +5718,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "Tę leśną serenadę\t śpiewam dla ciebie.",
+          "tekst": "Tę leśną serenadę",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "śpiewam dla ciebie.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5353,7 +5778,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "Tę leśną serenadę śpiewam dla ciebie.",
+          "tekst": "Tę leśną serenadę",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "śpiewam dla ciebie.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5376,12 +5806,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Gdy wieczór zapada i ciemno się robi dokoła,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "ja biorę gitarę i śpiewam piosenkę Paloma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5396,12 +5826,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Gdy pierwszy raz ciebie ujrzałem, ty moja dziewczyno!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "To zaraz wiedziałem, że będziesz ty moją jedyną!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5416,12 +5846,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Piosenkę Paloma śpiewają już wszyscy żeglarze.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Piosenka Paloma ci drogę do portu pokaże.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5436,12 +5866,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Bo oczy masz piękne, jak księżyc, jak gwiazdy na niebie!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Gdy patrzę w Twe oczy, to zawsze bym śpiewał dla Ciebie!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5456,12 +5886,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Przy blasku księżyca, szedł chłopak z dziewczyną daleko.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I w sercach i w piersiach gorącą miłością ich piekło.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5476,12 +5906,12 @@
         {
           "typ": "zwrotka",
           "tekst": "Te dźwięki kojące, płyną po łące szeroko.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ma miłość w mym sercu wyryta na zawsze głęboko!",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -5500,10 +5930,10 @@
       "tytul": "Pieniążki",
       "title": "Pieniążki",
       "autorzy_i_informacje": [
-        "sł.  Monika Boras;\tmuz. ……."
+        "sł.  Monika Boras\nmuz. ……."
       ],
-      "tekst": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno …\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno …\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno …\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno …\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno …\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno …\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno …\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno …\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno …\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno …",
-      "lyrics": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno …\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno …\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno …\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno …\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno …\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno …\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno …\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno …\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno …\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno …",
+      "tekst": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.",
+      "lyrics": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -5537,7 +5967,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5552,7 +5987,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5567,7 +6007,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5582,7 +6027,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5597,7 +6047,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5612,7 +6067,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5627,7 +6087,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5642,7 +6107,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5657,7 +6127,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5672,7 +6147,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5687,7 +6167,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5702,7 +6187,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5717,7 +6207,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5732,7 +6227,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5747,7 +6247,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -5762,7 +6267,12 @@
         },
         {
           "typ": "refren",
-          "tekst": "A nam wszystko jedno …",
+          "tekst": "A nam wszystko jedno, my mamy cały świat.",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Turysta bez pieniędzy, jest więcej wart.",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -6350,82 +6860,82 @@
         {
           "typ": "zwrotka",
           "tekst": "Pod żaglami Zawiszy,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "życie płynie jak w bajce.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Czy to w sztormie czy w ciszy,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "czy w noc ciemną, dzień jasny.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Białe żagle na masztach,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "jest to widok mocarny.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "W sercu radość i siła,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "to Zawisza nasz Czarny.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Chociaż grot ma dwa refy,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "fala pokład zalewa.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "To załoga Zawiszy",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "czuje wtedy, że pływa.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Więc popłyńmy raz jeszcze,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w tę dal siną bez końca,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "aby użyć swobody,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "wiatru, morza i słońca.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -6682,17 +7192,17 @@
         {
           "typ": "zwrotka",
           "tekst": "Gdy maszerujemy czwórkami w szeregu,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "To nasz drużynowy idzie gdzieś na brzegu.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Oj da, oj da dana, drużyno kochana,\nNie masz to jak nasza, nie oj nie!",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -6712,17 +7222,17 @@
         {
           "typ": "zwrotka",
           "tekst": "Za to szeregowcy, chłopcy jak należy,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nie masz jak to w naszej drużynie harcerzy.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Oj da, oj da dana, drużyno kochana,\nNie masz to jak nasza, nie oj nie!",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -6739,22 +7249,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Rozszumiały się wierzby płaczące.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Rozpłakała się dziewczyna w głos.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Od łez oczy podniosła błyszczące.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Na żołnierski, na twardy życia los.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -6799,22 +7309,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Błoto, deszcz czy słoneczna spiekota,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Zawsze słychać miarowy, równy krok.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Maszeruje ta leśna piechota,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "na ustach śpiew, spokojna twarz, pogodny wzrok.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -6859,22 +7369,22 @@
         {
           "typ": "zwrotka",
           "tekst": "I choć droga się nasza nie kończy,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "choć nie wiemy, gdzie wędrówki kres.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ale pewni jesteśmy zwycięstwa,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "bo przelano już tyle krwi i łez.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         }
       ]
     },
@@ -7175,22 +7685,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Lecz gdy piosenkę usłyszało,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "to się tak bardzo ucieszyło,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Zza wielkiej chmury zaraz wyszło",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i nam radośnie zaświeciło.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -7255,22 +7765,22 @@
         {
           "typ": "zwrotka",
           "tekst": "A zaraz mu się zmieni mina",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i uśmiech jego twarz rozjaśni.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Nawet w wesołka się przemieni",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i zaraz wszystkim będzie raźniej.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -7347,27 +7857,27 @@
         {
           "typ": "zwrotka",
           "tekst": "I nagle zapragnąłem kochać,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "jak tylko kocha się w młodości.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Tak jak najczulej jak najprościej,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "ale ze wszystkich sił,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "ze wszystkich sił.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -7422,27 +7932,27 @@
         {
           "typ": "zwrotka",
           "tekst": "Uśmiech jest częścią pocałunku,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "największym skarbem tego świata.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "W uśmiechu szuka się ratunku",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nawet gdy płyną łzy,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "ogromne łzy.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "refren",
@@ -7579,22 +8089,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Ma miłość jest głęboka,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "głęboko w sercu skryta.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I nikt jej nie odgadnie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i nikt jej nie odczyta.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "refren",
@@ -7710,8 +8220,8 @@
       "autorzy_i_informacje": [
         "sł. ???\nmuz. ???"
       ],
-      "tekst": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowiłem\nza złoty trzy i groszy sześć\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek miła pierwszaństwo,\nOn nie fundowił Tobie nawet kwas\nSraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum",
-      "lyrics": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowiłem\nza złoty trzy i groszy sześć\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek miła pierwszaństwo,\nOn nie fundowił Tobie nawet kwas\nSraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum",
+      "tekst": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowałem\nza złoty trzy i groszy sześć\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek ma pierwszeństwo,\nOn nie fundował Tobie nawet kwas\nZraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum",
+      "lyrics": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowałem\nza złoty trzy i groszy sześć\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek ma pierwszeństwo,\nOn nie fundował Tobie nawet kwas\nZraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -7725,7 +8235,7 @@
         },
         {
           "typ": "zwrotka",
-          "tekst": "Ja ci tyle fundowiłem",
+          "tekst": "Ja ci tyle fundowałem",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
@@ -7735,7 +8245,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "Sranione serce",
+          "tekst": "Zranione serce",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -7745,7 +8255,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "Czemuś odszedłaś o Rosalinda",
+          "tekst": "Czemuś odeszłaś o Rosalinda",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -7775,17 +8285,17 @@
         },
         {
           "typ": "zwrotka",
-          "tekst": "Dlaczego Icek miła pierwszaństwo,",
+          "tekst": "Dlaczego Icek ma pierwszeństwo,",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "On nie fundowił Tobie nawet kwas",
+          "tekst": "On nie fundował Tobie nawet kwas",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
-          "tekst": "Sraniłaś duszę mą",
+          "tekst": "Zraniłaś duszę mą",
           "styl_zrodlowy": "Zwrotka1"
         },
         {
@@ -7800,7 +8310,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "Sranione serce",
+          "tekst": "Zranione serce",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -7810,7 +8320,7 @@
         },
         {
           "typ": "refren",
-          "tekst": "Czemuś odszedłaś o Rosalinda",
+          "tekst": "Czemuś odeszłaś o Rosalinda",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -7853,107 +8363,107 @@
         {
           "typ": "zwrotka",
           "tekst": "Co wieczora tokaj piłem",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Aż do rana się bawiłem",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I choć w głowie tęgo zaszumiało,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "serce się do ciebie rwało,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Dzisiaj znowu tokaj piłem",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Aż do rana się bawiłem",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Choć się głowa, jak len w polu chwieje,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "do śniadania wytrzeźwieję,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Potem przyjdę ja do ciebie",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "A ty przyjmiesz mnie do siebie",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miła ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I choć z ust mych zapachnie ci wino,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "pocałujesz mnie dziewczyno,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "moja ty, miłą ty dzieweczko ma.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         }
       ]
     },
@@ -7970,182 +8480,182 @@
         {
           "typ": "zwrotka",
           "tekst": "Upływa szybko życie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Jak potok płynie czas.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Za dzień, za rok, za chwilę",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "razem nie będzie nas.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Za dzień, za rok, za chwilę",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "razem nie będzie nas.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I nasze młode lata",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "popłyną szybko w dal.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A w sercu pozostanie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "tęsknota, smutek, żal.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A w sercu pozostanie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "tęsknota, smutek, żal.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Więc póki młode lata,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "póki wiosenne dni.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niechże przynajmniej teraz",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "nie płyną gorzkie łzy.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niechże przynajmniej teraz",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "nie płyną gorzkie łzy.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Choć pamięć o nas zginie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "już za niedługi czas.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niech piosnka w dal popłynie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "póki jesteśmy wraz.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Niech piosnka w dal popłynie",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "póki jesteśmy wraz.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A jeśli losów koło",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "złączy zerwaną nić.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Będziemy znów pospołu",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "śpiewać, marzyć, śnić.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Będziemy znów pospołu",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "śpiewać, marzyć, śnić.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Więc kiedy dziś stajemy",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "już u rozstaju dróg.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Idącym w świat z otuchą,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "niech błogosławi Bóg.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Idącym w świat z otuchą,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "niech błogosławi Bóg.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -8162,77 +8672,77 @@
         {
           "typ": "zwrotka",
           "tekst": "Już słoneczko na zachodzie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "przegląda się w sinej wodzie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Rybaku, wiosła złóż",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i na brzeg wracaj już.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Waraha, waraha, hej.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Żegnaj moja mała łódko,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "rozstajemy się na krótko.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Zarzucę znowu sieć,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "nim ranek zacznie dnieć.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Waraha, waraha, hej.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Już słoneczko na zachodzie,",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "przegląda się w sinej wodzie.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Rybaku wiosła złóż",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i na brzeg wracaj już.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Waraha, waraha, hej.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         }
       ]
     },
@@ -8249,127 +8759,127 @@
         {
           "typ": "zwrotka",
           "tekst": "W piwnicznej izbie siedzę sam",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "nad kuflem pełnym piwa.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Oczyma wodzę tu i tam",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "a głowa mi się kiwa.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ja nie dbam o czerwony nos,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i o to, że wciąż tyję.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ja biorę kufel w ręce swe",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i piję, i piję i piję.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A gdyby ktoś mi wybór dał –",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "dziewczynę, konia, trunek.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "I rzekł – wybieraj sam co chcesz.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ja płacę za rachunek.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Na próżno dziewczę wdzięczy się",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A koń wyciąga szyję,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ja biorę kufel w ręce swe",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i piję, i piję i piję.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "A gdy nadejdzie Sądu czas",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i stanę o stóp Tronu.",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Pokłonię ja się aż po sam pas",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "i rzeknę bez pardonu:",
-          "styl_zrodlowy": "zwrotka"
+          "styl_zrodlowy": "Zwrotka1"
         },
         {
           "typ": "zwrotka",
           "tekst": "Rozkoszy rajskich nie chcę znać,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "i wiedzieć, gdzie się kryją.",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Lecz ty mnie Panie Boże wsadź,",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "gdzie piją, gdzie piją, gdzie piją",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "(do dna).",
-          "styl_zrodlowy": "zwrotka-odsuniecie"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
@@ -8380,8 +8890,8 @@
       "autorzy_i_informacje": [
         "sł. Mariusz Gabrych\nmuz. Mariusz Gabrych"
       ],
-      "tekst": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj",
-      "lyrics": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj",
+      "tekst": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj",
+      "lyrics": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj",
       "wersy": [
         {
           "typ": "zwrotka",
@@ -8405,27 +8915,52 @@
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Bo wszyscy harcerze",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "to jedna rodzina",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Starszy czy młodszy,",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "chłopak czy dziewczyna",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Hej, hej czuj-czuwaj Hej, hej czuj-czuwaj",
+          "tekst": "Bo wszyscy harcerze",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "to jedna rodzina",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Starszy czy młodszy,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "chłopak czy dziewczyna",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -8450,27 +8985,52 @@
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Bo wszyscy harcerze",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "to jedna rodzina",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Starszy czy młodszy,",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "chłopak czy dziewczyna",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Hej, hej czuj-czuwaj Hej, hej czuj-czuwaj",
+          "tekst": "Bo wszyscy harcerze",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "to jedna rodzina",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Starszy czy młodszy,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "chłopak czy dziewczyna",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
           "styl_zrodlowy": "Refren"
         },
         {
@@ -8495,27 +9055,52 @@
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Bo wszyscy harcerze",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "to jedna rodzina",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Bo wszyscy harcerze to jedna rodzina",
+          "tekst": "Starszy czy młodszy,",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Starszy czy młodszy, chłopak czy dziewczyna",
+          "tekst": "chłopak czy dziewczyna",
           "styl_zrodlowy": "Refren"
         },
         {
           "typ": "refren",
-          "tekst": "Hej, hej czuj-czuwaj Hej, hej czuj-czuwaj",
+          "tekst": "Bo wszyscy harcerze",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "to jedna rodzina",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Starszy czy młodszy,",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "chłopak czy dziewczyna",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
+          "styl_zrodlowy": "Refren"
+        },
+        {
+          "typ": "refren",
+          "tekst": "Hej, hej czuj-czuwaj",
           "styl_zrodlowy": "Refren"
         }
       ]
@@ -8672,7 +9257,7 @@
       "tytul": "Z gitarą pod ramię",
       "title": "Z gitarą pod ramię",
       "autorzy_i_informacje": [
-        "sł.  Mirosław Łebkowski, Stanisław Werner\nmuz. Adam Skorupka"
+        "sł. Mirosław Łebkowski, Stanisław Werner\nmuz. Adam Skorupka"
       ],
       "tekst": "Przez pola, bezdroża i łąki,\nprzez lasy, dąbrowy, wśród gór\nidziemy z kompasem piosenki\npod rześki gitary wtór.\nKtoś tam w kawiarni liczy dnie,\nktoś tam wartburgiem sobie mknie\na my wędrujemy z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść.\nWięc chlebak przez ramię i hajda\ngdzie letni posieje nas wiatr.\nWieczorem gitara nam zagra\ni biały zapachnie sad.\nJuż noc całuje nas do snu,\nza rok wrócimy znowu tu.\nPrzyjdziemy jak dzisiaj z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść.",
       "lyrics": "Przez pola, bezdroża i łąki,\nprzez lasy, dąbrowy, wśród gór\nidziemy z kompasem piosenki\npod rześki gitary wtór.\nKtoś tam w kawiarni liczy dnie,\nktoś tam wartburgiem sobie mknie\na my wędrujemy z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść.\nWięc chlebak przez ramię i hajda\ngdzie letni posieje nas wiatr.\nWieczorem gitara nam zagra\ni biały zapachnie sad.\nJuż noc całuje nas do snu,\nza rok wrócimy znowu tu.\nPrzyjdziemy jak dzisiaj z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść.",
@@ -8828,7 +9413,7 @@
       "id": "ss-004",
       "title": "Bieszczady",
       "author": "sł. ??? | muz. ???",
-      "lyrics": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady."
+      "lyrics": "Na głupotę nie ma rady.\nNie wchodziła w łeb nauka,\npojechałem więc w Bieszczady,\nby kowbojskich przygód szukać. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nW snach marzyłem sobie kiedyś,\nże pokocham piękną ledi.\nNo i owszem za mną lata,\na na imię ma Łaciata. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nTo nie życie dla kowboja,\nani też dla jego świty.\nKrowa mlekiem cię napoi,\nlecz nie zastąpi kobity. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić.\nOj żebym ja wcześniej wiedział,\nże tak trudno kowbojować\nLepiej bym już w domu siedział,\ni na WSR-olu studiował. (2x)\nHej Bieszczady, hej Bieszczady.\nTrza paść krowy nie ma rady.\nChciałem sobie pokowboić,\na tu trzeba krowy doić.\nChciałem sobie poturyścić.\na tu trzeba krowy czyścić."
     },
     {
       "id": "ss-005",
@@ -8840,7 +9425,7 @@
       "id": "ss-006",
       "title": "Bratnie słowo",
       "author": "sł. ??? | muz. ???",
-      "lyrics": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc."
+      "lyrics": "Bratnie słowo sobie dajem,\nże wspomagać będziem wzajem.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nByśmy zawsze pamiętali\nżeśmy bratnie słowo dali.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nBacz by słowo sobie dane,\nbyło zawsze dotrzymane.\nDruh druhowi druhnie druh,\nHasło znaj, czuj duch.\nW troskach, smutkach i zmartwieniach,\nw dni pogodne i w dni cienia,\nw mroźny dzień i w chłodną noc\nprzyjaźń da ci moc."
     },
     {
       "id": "ss-007",
@@ -8870,7 +9455,7 @@
       "id": "ss-011",
       "title": "Czerwony pas",
       "author": "sł. Józef Korzeniowski\nmuz. Karol Kurpiński",
-      "lyrics": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\na wesoła kołomyjka do tańca porywa.\nDla Hucuła nie ma życia jak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu Hucułom przygrywa,"
+      "lyrics": "Czerwony pas, za pasem broń,\ni topór, co błyszczy z dala.\nWesoła myśl, swobodna dłoń.\nTo strój, to życie górala.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nGdy świeży liść okryje bór,\ni Czarnohora ściemnieje.\nNiech dzwoni flet, niech ryczy róg.\nOdżyły nasze nadzieje.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPękł rzeki grzbiet, popłynął lód.\nCzeremosz szumi po skale.\nNuż w dobry czas, kędziory trzód\nWeseli kąpcie górale.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nPołonin step na szczytach gór.\nTam trawa w pas się podnosi.\nTam ciasnych miedz nie ciągnie sznur.\nTam żaden pan ich nie kosi.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie.\nA gdy już mróz posrebrzy las,\nładujcie ostrożnie konie.\nWy z plonem swym witajcie nas,\nmy z czarką podamy dłonie.\nTam szum Prutu, Czeremoszu\nHucułom przygrywa,\na wesoła kołomyjka\ndo tańca porywa.\nDla Hucuła nie ma życia\njak na połoninie,\ngdy go losy w doły rzucą,\nwnet z tęsknoty ginie."
     },
     {
       "id": "ss-012",
@@ -8882,7 +9467,7 @@
       "id": "ss-013",
       "title": "Deszcz jesienny, deszcz",
       "author": "sł. Marian Matuszkiewicz\nmuz. Marian Matuszkiewicz",
-      "lyrics": "Deszcz, jesienny deszcz, smutne pieśni gra.\nMokną na nim karabiny, hełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd noc zapada znów.\nCiemna główka twej dziewczyny chyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz, bębni w hełmu stal.\nIdziesz młody żołnierzyku gdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu"
+      "lyrics": "Deszcz, jesienny deszcz,\nsmutne pieśni gra.\nMokną na nim karabiny,\nhełmy kryje rdza.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat.\nNieś po rosie w dal,\nw zapłakany świat.\nPrzemoczone pod plecakiem\nOsiemnaście lat\nGdzieś daleko stąd\nnoc zapada znów.\nCiemna główka twej dziewczyny\nchyli się do snu.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię.\nMoże właśnie dziś\npatrzy w mroczną mgłę.\nI modlitwą prosi Boga\nby zachował cię\nDeszcz jesienny, deszcz,\nbębni w hełmu stal.\nIdziesz młody żołnierzyku\ngdzieś w nieznaną dal.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu.\nMoże jednak Bóg\nda, że wrócisz znów.\nBędziesz tulił ciemną główkę\nmiłej swej do snu"
     },
     {
       "id": "ss-014",
@@ -8894,13 +9479,13 @@
       "id": "ss-015",
       "title": "Echo",
       "author": "sł. ???\nmuz. ???",
-      "lyrics": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo dziś wyruszamy już.\nEcho, echo, echo, echo dziś wyruszamy już."
+      "lyrics": "Kołysze wiatr słonecznym łanem,\npołyskującym w słońcu zbóż.\nW daleką drogę, drogę, drogę wyruszamy,\nz wesołą pieśnią wyruszamy w drogę już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nGorąco kraj nasz miłujemy.\nMy dzieci wiosek, dzieci miast.\nI leci, leci nasza pieśń o ziemi,\no ziemi, której oddał serce każdy z nas.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nA kiedy zmrok na ziemię spłynie,\nrozpocznie księżyc nocny marsz.\nI znajdzie obóz, znajdzie obóz nasz w gęstwinie\nTo całą nockę będzie trzymał srebrną straż.\nEcho, echo, echo, echo\ndziś wyruszamy już.\nEcho, echo, echo, echo\ndziś wyruszamy już."
     },
     {
       "id": "ss-016",
       "title": "Elbajo",
       "author": "sł. ???\nmuz. ???",
-      "lyrics": "El bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!"
+      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już zgasł.\nA pampasy wciąż nucą tę pieśń:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!\nNiebo całe jaśnieje od gwiazd.\nI księżyca czarowny lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bayo, el bayo, el bayo!\nPa pa pa solo el bayo!\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo el bayo!\nW ognistym rytmie te dwa słowa brzmią:\nEl bayo!"
     },
     {
       "id": "ss-017",
@@ -8984,7 +9569,7 @@
       "id": "ss-030",
       "title": "Kaszubskie noce",
       "author": "sł. Zbigniew Kowalczyk\nmuz. Zbigniew Kowalczyk",
-      "lyrics": "Kaszubskie noce nad nami lśniące\t\t\tC a\nHarcerski krąg, ogniska blask\t\t\td G\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\t\t\tC a d G\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)"
+      "lyrics": "Kaszubskie noce nad nami lśniące\nHarcerski krąg, ogniska blask\nGdy się tu znajdziesz wtedy zrozumiesz\nŻe wszystko to łączy nas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nI choć Ojczyzna jest tak daleko\nTo nasze myśli wciąż do niej mkną\nTam też wśród nocy płoną ogniska\nHarcerskie piosnki unosi wiatr\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nA gdy drużyna znowu jest razem\nPłonie ognisko, gitara gra\nZnów wspominamy pierwsze wyprawy\nTrudy, radości- wspaniały czas\nTo szumi las, kołysze drzewa\nFala jeziora brzegi zalewa\nTu mały Giewont czoło pochyla\nA my siedzimy - harcerska brać\nCzy Ty pamiętasz pierwsze ognisko\nPierwsze spojrzenie, cudowna noc\nGwiazdy na niebie, byłeś tak blisko\nMówiłeś wtedy: \"Kocham Cię\" (A ja nie!)"
     },
     {
       "id": "ss-031",
@@ -9014,13 +9599,13 @@
       "id": "ss-035",
       "title": "Nad Brazylią",
       "author": "sł. ???\nmuz. ???",
-      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie te dwa słowa brzmią: El bajo."
+      "lyrics": "Nad Brazylią zapada już zmrok.\nSłońce zaszło i księżyc już lśni.\nA pampasy wciąż nucą tę pieśń.\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo.\nNiebo całe jaśnieje od gwiazd.\nI księżyca czerwony lśni blask.\nChłopców chór śpiewa piosenkę tę:\nEl bajo, el. bajo, el bajo.\nPa, pa, pa, solo bajo.\nNiesie wiatr poprzez kawowe pola.\nDu, du, du solo bajo.\nW ognistym rytmie\nte dwa słowa brzmią: El bajo."
     },
     {
       "id": "ss-036",
       "title": "Na szlakach \"Kormorana”",
       "author": "sł. Jerzy Krzywoszewski\nmuz. Jerzy Krzywoszewski",
-      "lyrics": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!"
+      "lyrics": "Popłyniemy sobie w dal błękitną,\nby usłyszeć rechot żab,\nsrebrną pianą fale nam zakwitną,\ntwarze nam owieje wiatr!\nJak to dobrze tak z rozwianym włosem\nsrebrną drogą w słońce gnać,\nno i śpiewać, śpiewać pełnym głosem,\naby światu dać znać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nNa wędrówkę, hen, pójdziemy borem,\nby usłyszeć ptaków gwar.\nPowrócimy nocą lub wieczorem,\ngdy już słońca zginie żar.\nI pójdziemy tak przez las pod rękę,\npoprzez wrzosy, poprzez mchy\ni będziemy śpiewać tę piosenkę,\nnasza młodość i my:\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!\nA gdy noc obsypie świat gwiazdami\ni znużony uśnie dzień,\nsrebrny księżyc przejdzie jeziorami,\nna namioty spłynie sen.\nJeszcze chwilę w ciszy gdzieś uparcie\nkomar będzie cicho grać.\nMały chłopiec stanie dziś na warcie,\nbyś spokojnie mógł spać.\nCzuwaj!\nNa szlakach „Kormorana” - Czuwaj!\nCzuwaj! - echo odpowie ci.\nPuszcza twój okrzyk w dal poniesie:\nCzuwaj! - w błękitach jezior drży.\nCzy to w słoneczny dzień,\nczy gdy noc rzuci cień,\nczy o świcie, gdy mija już strach.\nCzuwaj!\nCzuwaj! Na szlakach „Kormorana” - Czuwaj!\nCzuwaj! Harcerska straż!"
     },
     {
       "id": "ss-037",
@@ -9038,7 +9623,7 @@
       "id": "ss-039",
       "title": "Obozowe tango",
       "author": "sł. ???\nmuz. ???",
-      "lyrics": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\t śpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę śpiewam dla ciebie.\nObozowe tango, które znów połączy nas."
+      "lyrics": "Obozowe tango śpiewam dla Ciebie.\nWiatr je niesie, las kołysze\ndo snu dziewczę me.\nŚpij, moja kochana i czekaj na mnie.\nMoże, gdy się obóz skończy\nznów spotkamy się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas.\nCzy pamiętasz miła, jak przy ognisku\nw ciemnym lesie, na polanie\nspotkaliśmy się.\nWiatr nam szumiał cicho, byłaś tak blisko.\nSerca nasze z żarem iskier\npołączyły się.\nI choć nas dzieli\nmoże tysiące wiosek i mil.\nNie zapominaj razem spędzonych chwil.\nTę leśną serenadę\nśpiewam dla ciebie.\nObozowe tango, które znów połączy nas."
     },
     {
       "id": "ss-040",
@@ -9049,8 +9634,8 @@
     {
       "id": "ss-041",
       "title": "Pieniążki",
-      "author": "sł.  Monika Boras;\tmuz. …….",
-      "lyrics": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno …\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno …\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno …\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno …\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno …\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno …\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno …\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno …\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno …\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno …\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno …\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno …"
+      "author": "sł.  Monika Boras\nmuz. …….",
+      "lyrics": "Pieniążki, kto ma, ten jedzie na rowerze.\nA kto pieniążków nie ma, ten palcem po papierze.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ autobusem.\nA kto pieniążków nie ma, zasuwa za nim kłusem.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten lata samolotem.\nA kto pieniążków nie ma, ten idzie na piechotę,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, na małpy w ZOO zerka.\nA kto pieniążków nie ma, ten zerka do lusterka,\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pije drogie wódki.\nA kto pieniążków nie ma, ten pije piwo z budki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, przykrywa się pierzynką.\nA kto pieniążków nie ma, przykrywa się dziewczynką.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Bombaju.\nA kto pieniążków nie ma, pozostać musi w kraju.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada czekoladę.\nA kto pieniążków nie ma, ten wpieprza marmoladę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jeździ na obozy.\nA kto pieniążków nie ma, ten w polu pasie kozy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Krynicy.\nA kto pieniążków nie ma, ten głową do miednicy.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie do Wieliczki.\nA kto pieniążków nie ma, ten palcem do solniczki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten jedzie za granicę.\nA kto pieniążków nie ma, ten zwiedza okolice.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten pójdzie dziś do kina.\nA kto pieniążków nie ma, ten stoi jak drabina.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten zjada mandarynkę.\nA kto pieniążków nie ma, przełyka tylko ślinkę.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten nosi garnitury.\nA kto pieniążków nie ma, ceruje w swetrze dziury.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, ten kupi sobie Fiata.\nA kto pieniążków nie ma, na konie strzela z bata.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart.\nPieniążki kto ma, wiadomo kto to taki.\nA kto pieniążków nie ma, to reszta my biedaki.\nA nam wszystko jedno, my mamy cały świat.\nTurysta bez pieniędzy, jest więcej wart."
     },
     {
       "id": "ss-042",
@@ -9140,7 +9725,7 @@
       "id": "ss-056",
       "title": "Sza",
       "author": "sł. ???\nmuz. ???",
-      "lyrics": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowiłem\nza złoty trzy i groszy sześć\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek miła pierwszaństwo,\nOn nie fundowił Tobie nawet kwas\nSraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nSranione serce\nZ rozpaczy dinda\nCzemuś odszedłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum"
+      "lyrics": "Sza dlaczego tak się stało\nSza dlaczego tyś zdradziłaś mnie\nJa ci tyle fundowałem\nza złoty trzy i groszy sześć\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum\nDlaczego Icek ma pierwszeństwo,\nOn nie fundował Tobie nawet kwas\nZraniłaś duszę mą\nWięc odejść muszę stąd\nLecz zaśpiewam jeszcze raz\nZranione serce\nZ rozpaczy dinda\nCzemuś odeszłaś o Rosalinda\nTy babski grzdylu\nw ramionach twoich było tylu\na ty masz serce tam\ngdzie wstydzę się powiedzieć sam\nplum, plum"
     },
     {
       "id": "ss-057",
@@ -9170,7 +9755,7 @@
       "id": "ss-061",
       "title": "Wieczorem",
       "author": "sł. Mariusz Gabrych\nmuz. Mariusz Gabrych",
-      "lyrics": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nBo wszyscy harcerze to jedna rodzina\nStarszy czy młodszy, chłopak czy dziewczyna\nHej, hej czuj-czuwaj Hej, hej czuj-czuwaj"
+      "lyrics": "Wieczorem, wieczorem\nGdy ogniska płoną już.\nWieczorem, wieczorem\nPłoną ognie naszych dusz...\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nGdy na warcie stoisz ty\nPrzy blasku księżyca\nWspominamy nasze sny\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj\nWieczorem, wieczorem\nzłączy się nasz wspólny krąg\nprzyjaciół harcerzy\npowiązanych węzłem rąk.\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nBo wszyscy harcerze\nto jedna rodzina\nStarszy czy młodszy,\nchłopak czy dziewczyna\nHej, hej czuj-czuwaj\nHej, hej czuj-czuwaj"
     },
     {
       "id": "ss-062",
@@ -9181,7 +9766,7 @@
     {
       "id": "ss-063",
       "title": "Z gitarą pod ramię",
-      "author": "sł.  Mirosław Łebkowski, Stanisław Werner\nmuz. Adam Skorupka",
+      "author": "sł. Mirosław Łebkowski, Stanisław Werner\nmuz. Adam Skorupka",
       "lyrics": "Przez pola, bezdroża i łąki,\nprzez lasy, dąbrowy, wśród gór\nidziemy z kompasem piosenki\npod rześki gitary wtór.\nKtoś tam w kawiarni liczy dnie,\nktoś tam wartburgiem sobie mknie\na my wędrujemy z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść.\nWięc chlebak przez ramię i hajda\ngdzie letni posieje nas wiatr.\nWieczorem gitara nam zagra\ni biały zapachnie sad.\nJuż noc całuje nas do snu,\nza rok wrócimy znowu tu.\nPrzyjdziemy jak dzisiaj z piosenką\npod rześki gitary wtór.\nOho, ho, oho, ho,\nGwiżdże wiatr, śpiewa, ptak, szumi liść.\nOho ho, oho ho,\ngdybyś, chciał mógłbyś też z nami iść."
     }
   ]
