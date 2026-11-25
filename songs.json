@@ -3510,17 +3510,17 @@
         {
           "typ": "zwrotka",
           "tekst": "Cicho, szeroko jak okiem spojrzenie śle.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Jakieś się snują marzenia",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "w wieczornej spowitej mgle.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -4267,22 +4267,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Siedzą harcerze przy płomieniach,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Ciepły blask ognia skupia ich.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Wszystko co złe to szuka cienia,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Do światła dobro garnie się.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
@@ -4307,22 +4307,22 @@
         {
           "typ": "zwrotka",
           "tekst": "Warunki tylko warunkami,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Od dawna już słyszymy to.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "Lecz my jesteśmy harcerzami,",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         },
         {
           "typ": "zwrotka",
           "tekst": "I zwyciężymy wszelkie zło.",
-          "styl_zrodlowy": "Zwrotka1"
+          "styl_zrodlowy": "Zwrotka2"
         }
       ]
     },
