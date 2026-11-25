@@ -1,5 +1,5 @@
-// Śpiewnik 1.1.8 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
-const CACHE='ss-pwa-v118-20261125';
+// Śpiewnik 1.2 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
+const CACHE='ss-pwa-v120-20261125';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./songs.json'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
@@ -7,6 +7,8 @@ self.addEventListener('fetch',event=>{
  const request=event.request;
  if(request.method!=='GET'||new URL(request.url).origin!==self.location.origin)return;
  const url=new URL(request.url);
+ // Nagrania i żądania zakresów bajtów obsługuje bezpośrednio sieć.
+ if(url.pathname.startsWith(new URL("./mp3/",self.registration.scope).pathname)||request.headers.has("range"))return;
  if(url.pathname.endsWith('/songs.json')){
   event.respondWith((async()=>{
    const cache=await caches.open(CACHE);
