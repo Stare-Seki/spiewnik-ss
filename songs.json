@@ -206,7 +206,8 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "namioty.mp3"
     },
     {
       "id": "ss-002",
@@ -3706,7 +3707,8 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "ty-mlody-skaucie.mp3"
     },
     {
       "id": "ss-019",
@@ -4758,7 +4760,8 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "jak-dobrze-nam.mp3"
     },
     {
       "id": "ss-026",
@@ -7626,7 +7629,8 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "ogniska-juz-dogasa.mp3"
     },
     {
       "id": "ss-043",
@@ -8255,7 +8259,8 @@
           "styl_zrodlowy": "Zwrotka2",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "to-zawisza-nasz-czarny.mp3"
     },
     {
       "id": "ss-047",
@@ -9101,7 +9106,8 @@
           "styl_zrodlowy": "Refren",
           "odstep_przed": false
         }
-      ]
+      ],
+      "mp3": "piosenka-o-poznaniu.mp3"
     },
     {
       "id": "ss-053",
