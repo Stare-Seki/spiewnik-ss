@@ -1,5 +1,5 @@
-// Śpiewnik 1.7 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
-const CACHE='ss-pwa-v170-20261125';
+// Śpiewnik 1.6 — plik songs.json: sieć najpierw, kopia offline w razie braku internetu.
+const CACHE='ss-pwa-v160-20261125';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./songs.json','./logo-kregu.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
